@@ -1,8 +1,4 @@
-# Monitoring Stack: Flask + Prometheus + Grafana + Node Exporter
-
-A self-contained observability stack demonstrating metrics collection, storage, and
-visualization — the full pipeline: **App exposes metrics → Prometheus scrapes and
-stores them → Grafana visualizes them**.
+# monitoring-prometheus-grafana
 
 ## Dashboard Preview
 
